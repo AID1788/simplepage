@@ -1,1 +1,39 @@
+<html>
+    <head>
+        <style>
+            h2 {
+                font-family: 'Arial';
+                font-size: 16pt;
+            }
+            h1 {
+                font-family: 'Arial';
+                font-size: 32pt;
+            }
+        </style>
 
+        <h1>
+            <font color="Indigo">Космос</font>
+        </h1>
+
+    </head>
+    
+    <p>
+        <h2>
+            <font color="IndianRed" >Немного картинок про космос</font>
+        </h2>
+    </p>
+
+    <h2><font color="MediumSlateBlue">Галактики</font></h2>
+    <p>
+        <img src="/uploads/2020/10/fractal-1280107_1280%201_0_1601646967.png" width="250px" height="250px"/>
+        <img src="/uploads/2020/10/galaxy-11098_1280%201_0_1601646779.png" width="250px" height="250px"/>
+        <img src="/uploads/2020/10/space-2638126_1280%201_0_1601646780.png" width="250px" height="250px"/>
+    </p>
+
+    <h2><font color="MediumSlateBlue">Планеты</font></h2>
+    <p>
+        <img src="https://drive.google.com/uc?export=view&id=1bmnnV71MXYnDQ-SbpZqyl79CzjeuV0U-" width="250px" height="250px"/>
+        <img src="https://drive.google.com/uc?export=view&id=1-TDQpNWUOZZd5Qloezsqday0JOs8owQe" width="250px" height="250px"/>
+        <img src="https://drive.google.com/uc?export=view&id=1zAtDipMtf9TssWunncohkUdR8b_kz83o" width="250px" height="250px"/>
+    </p>
+</html
